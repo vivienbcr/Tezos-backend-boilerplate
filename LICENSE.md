@@ -1,2 +1,2 @@
 
-Copyright (C) 2021 Vivien
+Copyright (C) 2021 Vivien Boucher
